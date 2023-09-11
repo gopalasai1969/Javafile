@@ -6,7 +6,5 @@ class Age
    int presentyear=2023;
    int age=presentyear-birthyear;
    System.out.println("presentage="+age);
-//hui
-
  }
 }
